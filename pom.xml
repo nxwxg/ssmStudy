@@ -28,7 +28,7 @@
     <!--让整个项目统一字符集编码-->
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <!--让spring统一版本号-->
-    <spring.version>4.3.0.RELEASE</spring.version>
+    <spring.version>6.0.0</spring.version>
   </properties>
 
   <dependencies>
